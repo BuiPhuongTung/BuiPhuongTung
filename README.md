@@ -5,6 +5,6 @@
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning in Open University
 - 📲💻 My major is Computer Graphics. 
-- My daily job is to code mobile apps.
+- My current job is coding mobile apps.
 - 🤔 I’m looking for help with Dqlinh0802,PhamChiNang151020 and htbao1208
 
